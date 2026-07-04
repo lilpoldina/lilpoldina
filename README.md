@@ -6,7 +6,7 @@ Sou **Licenciado em Engenharia Informática** pela Universidade do Minho e candi
 * 🎓 **Educação:** Licenciatura em Engenharia Informática (Média: 14/20).
 * ⚙️ **Foco:** Inteligência Artificial, Sistemas Operativos, Concorrência e Arquitetura de Software.
 * 🚀 **Atualmente:** A aprofundar conhecimentos no desenho de software complexo e a preparar-me para novos desafios académicos.
-* 🌳 Fora do teclado, gosto de conviver com amigos e atividades ao ar livre.
+* 🚗 Fora do teclado, gosto de conviver com amigos e passear.
 
 
 ### 🛠️ Competências Técnicas
