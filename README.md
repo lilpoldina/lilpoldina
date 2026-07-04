@@ -27,7 +27,7 @@ Sou **Licenciado em Engenharia Informática** pela Universidade do Minho e candi
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github.com/lilpoldina/metrics/blob/master/metrics_renders/github-metrics.svg" alt="Métricas do GitHub do Rodrigo" />
+  <img src="https://github.com/lilpoldina/lilpoldina/github-metrics.svg" alt="Métricas do GitHub do Rodrigo" />
 </p>
 
 ### 📫 Contactos
