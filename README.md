@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Rodrigo Rocha
+# Olá! 👋 Eu sou o Rodrigo
 
 Sou **Licenciado em Engenharia Informática** pela Universidade do Minho e candidato a Mestrado. Tenho bases sólidas em sistemas de baixo nível, inteligência artificial e arquiteturas de *backend*, e uma grande paixão por resolver problemas complexos de engenharia.
 
@@ -27,7 +27,7 @@ Sou **Licenciado em Engenharia Informática** pela Universidade do Minho e candi
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github.com/lilpoldina/lilpoldina/github-metrics.svg" alt="Métricas do GitHub do Rodrigo" />
+  <img src="https://github.com/lilpoldina/lilpoldina/blob/main/github-metrics.svg" alt="Métricas do GitHub" />
 </p>
 
 ### 📫 Contactos
