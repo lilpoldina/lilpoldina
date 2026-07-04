@@ -16,7 +16,7 @@ Sou **Licenciado em Engenharia Informática** pela Universidade do Minho e candi
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,python,c,java,go,linux,vscode)](https://skillicons.dev)
 ### 🏆 Projetos em Destaque
 
-* **[Simulação de Gestão de Frota (Inteligência Artificial)]((https://github.com/lilpoldina/IA_2526))**
+* **[Simulação de Gestão de Frota (Inteligência Artificial)](https://github.com/lilpoldina/IA_2526)**
   Modelação de um ambiente dinâmico em Python para alocação otimizada de veículos. Implementação de algoritmos de procura informada e não informada, heurísticas multi-critério (tempo, custo monetário, emissões) e lógica de *Ride-Sharing* em tempo real.
 
 * **[Motor de Indexação e Pesquisa de Documentos](https://github.com/lilpoldina/SO_2425)**
