@@ -13,7 +13,7 @@ Sou **Licenciado em Engenharia Informática** pela Universidade do Minho e candi
 * **Linguagens:** Python, C, Java, Go, JavaScript, HTML
 * **Competências Principais:** Estruturas de Dados, Algoritmos de Procura (A*, UCS, Greedy), IPC (*Named Pipes*), Sincronização de *Threads*.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,java,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,python,c,java,go,linux,vscode)](https://skillicons.dev)
 ### 🏆 Projetos em Destaque
 
 * **[Simulação de Gestão de Frota (Inteligência Artificial)]((https://github.com/lilpoldina/IA_2526))**
