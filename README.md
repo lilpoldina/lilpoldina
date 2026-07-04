@@ -12,6 +12,7 @@ Sou **Licenciado em Engenharia Informática** pela Universidade do Minho e candi
 ### 🛠️ Competências Técnicas
 * **Linguagens:** Python, C, Java, Go, JavaScript, HTML
 * **Competências Principais:** Estruturas de Dados, Algoritmos de Procura (A*, UCS, Greedy), IPC (*Named Pipes*), Sincronização de *Threads*.
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,java,go)](https://skillicons.dev)
 ### 🏆 Projetos em Destaque
 
